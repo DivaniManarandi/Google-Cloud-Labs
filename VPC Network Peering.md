@@ -112,3 +112,19 @@ The routes to peered network CIDR prefixes are now visible across the VPC networ
 ```yaml
 gcloud compute routes list --project
 ```
+#### 3. Test connectivity
+In this task, you perform a connectivity test.
+
+project-A
+1. Navigate to VM instances console by clicking Navigation Menu > Compute Engine > VM instances.
+2. Copy the INTERNAL_IP for vm-a.
+
+project-B
+1. Click Navigation Menu > Compute Engine > VM instances.
+```yaml
+SSH into vm-b instance.
+```
+2. In the SSH shell of vm-b, run the following command replacing <INTERNAL_IP_OF_VM_A> with the vm-a instance INTERNAL_IP:
+```yaml
+ping -c 5 <INTERNAL_IP_OF_VM_A>
+```
