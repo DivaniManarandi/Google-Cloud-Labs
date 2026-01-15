@@ -282,4 +282,5 @@ We do this by navigating to the IAM & Admin section in Cloud Console to edit the
 
 <img width="1080" height="1080" alt="develop-your-google-cloud-network-skill-badge" src="https://github.com/user-attachments/assets/d4be20a3-9490-4c22-8246-60806782ff68" />
 
-
+👀✨ Take a look here! 🚀
+https://www.credly.com/badges/02c28f3a-ebd9-41df-8f69-48aab6e6f6df/public_url
