@@ -125,3 +125,8 @@ gcloud container clusters get-credentials <your cluster name> --internal-ip --pr
 Tip 2. When adding the internal ip-address of the orca-jumphost machine to the list of authorized addresses for the private Kubernetes Engine cluster you should use a /32 netmask to ensure that only the specific compute instance is authorized.
 
 Tip 3. You cannot connect directly to a Kubernetes Engine private cluster from a VPC or other network outside of the VPC the private cluster has been deployed to if the enable-private-endpoint option has been specified. This represents the highest security option for a private cluster and you must use a jumphost, or a proxy within the same VPC as the cluster, and you must use that jumphost or proxy to connect to the internal managment ip-address for the cluster.
+
+✨🎉 Wow! You’ve completed the challenge successfully! 🚀👏
+
+<img width="1080" height="1080" alt="implement-cloud-security-fundamentals-on-google-clo" src="https://github.com/user-attachments/assets/cb5256d8-7770-47c7-ba11-75aa10e44b05" />
+
