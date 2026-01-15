@@ -67,6 +67,7 @@ EOF_END
 ```
 Create the Custom Security Role:
 ```yml
+gcloud iam service-accounts create orca-private-cluster-sa --display-name "Orca Private Cluster Service Account"
 gcloud iam roles create $CUSTOM_SECURIY_ROLE --project $DEVSHELL_PROJECT_ID --file role-definition.yaml
 ```
 
