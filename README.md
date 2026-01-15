@@ -23,4 +23,11 @@ https://www.credly.com/badges/dc44d89c-6cc0-4770-9dc0-606a7ccd55eb/public_url
 
 https://www.credly.com/badges/02c28f3a-ebd9-41df-8f69-48aab6e6f6df/public_url
 
+<img width="1080" height="1080" alt="implement-cloud-security-fundamentals-on-google-clo" src="https://github.com/user-attachments/assets/ad88e3eb-9d95-4903-b96f-2223e403925d" />
+
+https://www.credly.com/badges/2bfd3ce1-c7e0-4724-902c-d88275643748/public_url
+
+
+
+
 
