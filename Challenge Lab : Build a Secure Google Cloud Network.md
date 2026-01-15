@@ -85,6 +85,16 @@ ssh <internal IP of the juice-shop>
 ```
 ![6](https://github.com/user-attachments/assets/1bdd1578-2998-459d-b7df-c3a22eb06b7f)
 
-![7](https://github.com/user-attachments/assets/9286825b-9c03-461f-a38b-62ea1857d669)
+✨🎉 Wow! You’ve completed the challenge successfully! 🚀👏
+
+<img width="1080" height="1080" alt="build-a-secure-google-cloud-network-skill-badge" src="https://github.com/user-attachments/assets/9a354073-4187-43fd-a6e7-21396feb3bb9" />
+
+
+👀✨ Take a look here! 🚀
+
+https://www.credly.com/badges/dc44d89c-6cc0-4770-9dc0-606a7ccd55eb/public_url
+
+
+
 
 
